@@ -1,6 +1,6 @@
 # donelist
 
-A simple Python package to add tasks to [donelist](https://donel.ist/) from a text file.
+A simple Python package to add tasks to [Donel.ist](https://donel.ist/) from a text file.
 
 ## Installation
 
